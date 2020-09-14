@@ -7,6 +7,18 @@
   word-break: break-word; /* to stop overflow due to long words */
 }
 
+
+:root{
+  --pricol1: #ffb500, rgb(255, 191, 0);
+  --pricol2: #838383, rgb(131, 131, 131);
+  --pricol3: #000000, rgb(0, 0, 0);
+  --seccol1: #f038ff, rgb(240, 56, 255);
+  --seccol2: #7ae7c7, rgb(122, 231, 199);
+  --seccol3: #6A56FF, rgb(82, 72, 156);
+  --font1: "Comfortaa", sans-serif;
+  --font2: "Passion One", sans-serif;
+}
+
 /*! HTML5 Boilerplate v8.0.0 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 2.1.0 | MIT License | https://github.com/h5bp/main.css#readme */
